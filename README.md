@@ -1,6 +1,7 @@
 # Emotion Detection using BiLSTM on Social Media
 
-
+## Dataset 
+   Download dataset (text.csv) from : [Emotions](https://www.kaggle.com/datasets/nelgiriyewithana/emotions)
 ## Python Version and Third-Party Libraries
 
 ### Python Version:
